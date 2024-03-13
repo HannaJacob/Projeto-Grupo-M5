@@ -44,3 +44,16 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 
 :black_small_square: Os resultados são comunicados através de slides que contêm gráficos e visualizações relevantes, apoiados por análises e interpretações claras.
 
+## Requisitos de Execução do Projeto
+
+:black_small_square: Ambiente de desenvolvimento: Google Colab, Jupyter Notebook ou VS Code.
+
+:black_small_square: Código Python para Preparação e Limpeza dos Dados [Clique Aqui](Code/MDL5_CriptoMoedas_Grupo2.ipynb)
+
+:black_small_square: Bibliotecas Python: numpy, pandas, matplotlib, seaborn, scikit-learn.
+
+:black_small_square: Arquivos de dados no formato CSV [Clique Aqui](Dados)
+
+:black_small_square: Código para Criação do Banco de Dados no MySQL[Clique Aqui](Code)
+
+:black_small_square: Ferramenta de visualização compatível que se conecte com o MySQL, como Power BI.
