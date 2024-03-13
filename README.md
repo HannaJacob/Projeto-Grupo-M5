@@ -18,7 +18,7 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 
 :black_small_square: Os dados das criptomoedas são importados para o ambiente do Google Colab.
 
-:black_small_square: Uma função é utilizada para limpar e preparar os dados, tratando valores ausentes e formatando os tipos de dados, garantindo a consistência e qualidade dos dados para análise.
+:black_small_square: Preparação dos dados para análise, incluindo tratamento de irregularidades e valores ausentes.
 
 :heavy_check_mark:Análise Exploratória de Dados:
 
