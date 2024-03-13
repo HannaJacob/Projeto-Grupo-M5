@@ -1,5 +1,13 @@
 
-![projetogrupobannert](https://github.com/HannaJacob/Projeto-Grupo-M5/assets/144841827/0bf059e2-3833-49e7-82a9-bc4a4b9ea196)
+<h1 align="center"> 
+ <img src="Documentos/Imagens/banner.png" /> 
 
-  <img src="https://img.shields.io/static/v1?label=Python&message=framework&color=048aff&style=for-the-badge&logo=PYTHON"/> <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=b100e8&style=for-the-badge"/> <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=048aff&style=for-the-badge"/> <img src="http://img.shields.io/static/v1?label=vers%C3%A3o%20do%20projeto&message=v1.0&color=b100e8&style=for-the-badge&logo=github">
+![GitHub last commit](https://img.shields.io/github/last-commit/HannaJacob/Projeto-Grupo-M5?display_timestamp=author&style=for-the-badge&color=%23b100e8)
+![GitHub watchers](https://img.shields.io/github/watchers/HannaJacob/Projeto-Grupo-M5?style=for-the-badge&color=%23b100e8)
+![GitHub forks](https://img.shields.io/github/forks/HannaJacob/Projeto-Grupo-M5?style=for-the-badge&color=%23b100e8)
+![GitHub repo size](https://img.shields.io/github/repo-size/HannaJacob/Projeto-Grupo-M5?style=for-the-badge&logo=github&color=%23048aff)
+![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-%23048aff?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-MIT-%23048aff?style=for-the-badge)
+</h1>
+
 
