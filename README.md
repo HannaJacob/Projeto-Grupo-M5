@@ -10,10 +10,10 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-%23048aff?style=for-the-badge)
 </h1>
 
-## Descrição do projeto
+## :bar_chart: Descrição do projeto
 Este projeto faz parte de um projeto integrador onde foi proposto realizar uma análise exploratória dos valores históricos de criptomoedas. Criptomoedas são moedas digitais descentralizadas baseadas em criptografia, operando em redes blockchain, o que permite transações seguras e transparentes sem a necessidade de intermediários, como bancos.
 
-## Funcionalidades
+## :hammer_and_wrench: Funcionalidades
 :heavy_check_mark: Limpeza e Preparação dos Dados:
 
 :black_small_square: Os dados das criptomoedas são importados para o ambiente do Google Colab.
@@ -44,7 +44,7 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 
 :black_small_square: Os resultados são comunicados através de slides que contêm gráficos e visualizações relevantes, apoiados por análises e interpretações claras.
 
-## Requisitos de Execução do Projeto
+## :clipboard: Requisitos de Execução do Projeto
 
 :black_small_square: Ambiente de desenvolvimento: Google Colab, Jupyter Notebook ou VS Code.
 
@@ -57,3 +57,15 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 :black_small_square: Código para Criação do Banco de Dados no MySQL[Clique Aqui](Code)
 
 :black_small_square: Ferramenta de visualização compatível que se conecte com o MySQL, como Power BI.
+
+## :handshake: Colaboradores
+
+
+| [<img src="https://avatars.githubusercontent.com/u/142859543?v=4" width=115><br><sub>Ederson Macedo</sub>](https://github.com/edersonmcm) |   [<img src="https://avatars.githubusercontent.com/u/144841827?v=4" width=115><br><sub>Hanna Jacob</sub>](https://github.com/HannaJacob) |  |
+| :---: | :---: | :---: 
+
+## Licença 
+
+The [MIT License](LICENSE)
+
+Copyright :copyright: 2024 - Projeto-Grupo-M5
