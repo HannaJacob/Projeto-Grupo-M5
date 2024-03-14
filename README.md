@@ -18,7 +18,7 @@
 
 :small_blue_diamond: [Pré-requisitos](#Requisitos-de-Execução-do-Projeto)
 
-:small_blue_diamond: [Colaboradores](#:handshake:-Colaboradores)
+:small_blue_diamond: [Colaboradores](#:handshake:Colaboradores)
 
 :small_blue_diamond: [Licença](#Licença)
 
