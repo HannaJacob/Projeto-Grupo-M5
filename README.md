@@ -14,9 +14,9 @@
 
 :small_blue_diamond: [Descrição do projeto](#Descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](##Funcionalidades)
+:small_blue_diamond: [Funcionalidades](#Funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](##Requisitos-de-Execução-do-Projeto)
+:small_blue_diamond: [Pré-requisitos](#Requisitos-de-Execução-do-Projeto)
 
 :small_blue_diamond: [Colaboradores](#Colaboradores)
 
