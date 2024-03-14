@@ -16,7 +16,7 @@
 
 :small_blue_diamond: [Funcionalidades](#hammer_and_wrench-funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](#hammer_and_wrench-funcionalidades)
+:small_blue_diamond: [Pré-requisitos](#clipboard-requisitos-de-execução-do-projeto)
 
 :small_blue_diamond: [Colaboradores](#handshake-colaboradores)
 
