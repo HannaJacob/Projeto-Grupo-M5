@@ -10,6 +10,18 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-%23048aff?style=for-the-badge)
 </h1>
 
+### Indice
+
+:small_blue_diamond: [Descrição do projeto](#Descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](##Funcionalidades)
+
+:small_blue_diamond: [Pré-requisitos](##Requisitos-de-Execução-do-Projeto)
+
+:small_blue_diamond: [Colaboradores](#Colaboradores)
+
+:small_blue_diamond: [Licença](#Licença)
+
 ## :bar_chart: Descrição do projeto
 Este projeto faz parte de um projeto integrador onde foi proposto realizar uma análise exploratória dos valores históricos de criptomoedas. Criptomoedas são moedas digitais descentralizadas baseadas em criptografia, operando em redes blockchain, o que permite transações seguras e transparentes sem a necessidade de intermediários, como bancos.
 
