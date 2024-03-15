@@ -73,8 +73,8 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 ## :handshake: Colaboradores
 
 
-| [<img src="https://avatars.githubusercontent.com/u/142859543?v=4" width=115><br><sub>Ederson Macedo</sub>](https://github.com/edersonmcm) |   [<img src="https://avatars.githubusercontent.com/u/144841827?v=4" width=115><br><sub>Hanna Jacob</sub>](https://github.com/HannaJacob) |  |
-| :---: | :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/142859543?v=4" width=115><br><sub>Ederson Macedo</sub>](https://github.com/edersonmcm) |  [<img src="https://avatars.githubusercontent.com/u/144841827?v=4" width=115><br><sub>Hanna Jacob</sub>](https://github.com/HannaJacob) | [<img src="https://avatars.githubusercontent.com/u/155009708?v=4" width=115><br><sub>Arthur Gosi</sub>](https://github.com/ArthurGosi2024) | [<img src="https://avatars.githubusercontent.com/u/145804411?v=4" width=115><br><sub>Handdson Wanglas</sub>](https://github.com/Handdson) | [<img src="https://avatars.githubusercontent.com/u/145804534?v=4" width=115><br><sub>Meire  Emanuela</sub>](https://github.com/meir3manu) |
+| :---: | :---: | :---: | :---: | :---:
 
 ## Licença 
 
