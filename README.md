@@ -66,7 +66,7 @@ Este projeto faz parte de um projeto integrador onde foi proposto realizar uma a
 
 :black_small_square: Arquivos de dados no formato CSV [Clique Aqui](Dados)
 
-:black_small_square: Código para Criação do Banco de Dados no MySQL[Clique Aqui](Code)
+:black_small_square: Código para Criação do Banco de Dados no MySQL[Clique Aqui](Code/data.sql)
 
 :black_small_square: Ferramenta de visualização compatível que se conecte com o MySQL, como Power BI.
 
